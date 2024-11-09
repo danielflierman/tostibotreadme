@@ -1,4 +1,4 @@
-# tostibotreadme
+# Tosti Bot's ReadMe
 ToS &amp; Privacy Policy
 
 Terms of Service for Tosti Bot
